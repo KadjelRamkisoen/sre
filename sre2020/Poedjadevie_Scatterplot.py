@@ -60,7 +60,7 @@ repo = 'scottyab/rootbeer'
 # repo = 'k9mail/k-9'
 
 # put your tokens here
-lstTokens = ['0b0923f7c7f008611cfe72e093bef4c0d8a8c1fe']
+lstTokens = ['']
 
 dictfiles = dict()
 authorlist = list()
